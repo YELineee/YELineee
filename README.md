@@ -1,14 +1,101 @@
-## Hi there 👋👋👋
-> I am 潘韩骏 (DANIEL PAN). I usually go by the alias `YEline`  on the Internet. 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm YEL!ne</h1></summary>
+  </ul>
+</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+I'm YEL!ne.Hey,I suppose I'm just your average pessimistic teenager who's not really adept at introducing myself. Most of the time, I get by with coding and playing games to ‘proactive’ through each day LOL.<br>
+    		&nbsp;&nbsp;You know, I've always been curious about what lies at the far end of the universe. What's out there, in those distant reaches? There are so many unexplored places, so many spots I've never set foot in. But honestly, in the grand scheme of things, who really cares about a life that can be summed up in just a few lines which I wort here?
+Oh, and by the way, I really want to thank you for checking out my GitHub.   
+  </samp>
+</p>
 
-- 🌱 I'm currently learning on some web design & art related studies 
-- 👨‍💻 I'm currently studying at Central South University
-- 🕹️I’m interested in [Apex Legends](https://www.bing.com/ck/a?!&&p=719f844896801918JmltdHM9MTY3MTU4MDgwMCZpZ3VpZD0xYzNhMjA5OC1lYjU1LTZlOTUtMjNmOS0yZjY0ZWExNjZmMzYmaW5zaWQ9NTE3OQ&ptn=3&hsh=3&fclid=1c3a2098-eb55-6e95-23f9-2f64ea166f36&psq=apex+legends&u=a1aHR0cHM6Ly93d3cuZWEuY29tL2dhbWVzL2FwZXgtbGVnZW5kcw&ntb=1) & [VALORANT](https://www.bing.com/ck/a?!&&p=5a99bcc6c495c356JmltdHM9MTY3MTU4MDgwMCZpZ3VpZD0xYzNhMjA5OC1lYjU1LTZlOTUtMjNmOS0yZjY0ZWExNjZmMzYmaW5zaWQ9NTE3NQ&ptn=3&hsh=3&fclid=1c3a2098-eb55-6e95-23f9-2f64ea166f36&psq=valorant&u=a1aHR0cHM6Ly9wbGF5dmFsb3JhbnQuY29tLw&ntb=1)
-- 📫 You can contact with me [@Daniel(gmail)](mailto:Daniel1638317920@outlook.com) or [@YELine(QQmail)](mailto:1638317920@qq.com)
 
-- 💬 Have a great day!
 
-<!---
-YELineee/YELineee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Technologies That I Know 💻</h3></summary>
+  </ul>
+</div>
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask,bash,html,css,js,svelte,dart,flutter,md,svg,tailwind,nextjs,d3" /> 
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=codepen,vercel,vscode,vim,linux,git,github,gitlab,androidstudio,ps" />
+  </a>
+</p>
+
+
+
+---
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Let me tell you a bit 🧐</h3></summary>
+  </ul>
+</div>
+
+
+``` python
+class YELine(Abdullah):
+   """self-taught developer that love to learn more about the universe"""
+   
+   def __init__(self):
+     
+      self.name = "YELine"
+      self.age = 22
+      self.role = "Student"
+
+      self.TOOLS = {
+          "ScriptingLanguages" : ("Python", "Bash-Script",),
+          "ProgrammingLanguages" : ("Python", "Javascript"),
+          "MarkupLanguages" : ("Html", "markdown"),
+          "Editors" : ("VsCode", "Vim"),
+          "Platform" : ("MacOS",),
+          "OtherTools" : ("GIMP", "Git", "Arduino")
+         }
+
+      self.INTERESTS = [
+         "Coding",
+         "Enjoy the music",
+         "Doing something feel pointless",
+         "Dawdling by the windowsill when it's raining"
+         ]
+      
+      self.PLAYLIST = [
+        "Watching memes",
+        "VAROLANT",
+        "APEX",
+        "CSGO",
+        "Go somewhere I've never been"
+      ]
+
+   def use(self, tool):
+      """use bunch of them and do nothing."""
+      return self.tools[tool]
+    
+   def start_playing(self):
+    	"""its the time baby"""
+      WORK_DONE = True
+      if WORK_DONE:
+          random_activity = random.choice(self.PLAYLIST)
+
+   def work(self):
+      """Engage in work using the available tools."""
+       WORK_DONE = False  # Initialize to False
+       while not WORK_DONE:
+           # Keep working.
+           for tool in self.TOOLS:
+               self.use(tool)
+           WORK_DONE = True  # Update to True once work is done.
+       return WORK_DONE
+
+```
