@@ -15,7 +15,10 @@ Oh, and by the way, I really want to thank you for checking out my GitHub.
 </p>
 
 
+
+
 ---
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h3 style="display: inline-block">Technologies That I Know 💻</h3></summary>
@@ -40,6 +43,8 @@ Oh, and by the way, I really want to thank you for checking out my GitHub.
     <summary><h3 style="display: inline-block">Let me tell you a bit 🧐</h3></summary>
   </ul>
 </div>
+
+
 ``` python
 class YELine(Abdullah):
    """self-taught developer that love to learn more about the universe"""
@@ -96,7 +101,11 @@ class YELine(Abdullah):
 
 ```
 
+
+
 ---
+
+
 
 <div id="user-content-toc">
   <ul align="center">
@@ -128,4 +137,3 @@ class YELine(Abdullah):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-
