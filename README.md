@@ -91,12 +91,11 @@ class YELine(Abdullah):
 
    def work(self):
       """Engage in work using the available tools."""
-       WORK_DONE = False  # Initialize to False
+       WORK_DONE = False  
        while not WORK_DONE:
-           # Keep working.
            for tool in self.TOOLS:
                self.use(tool)
-           WORK_DONE = True  # Update to True once work is done.
+           WORK_DONE = True  
        return WORK_DONE
 
 ```
@@ -137,3 +136,4 @@ class YELine(Abdullah):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+
