@@ -31,7 +31,7 @@ Oh, and by the way, I really want to thank you for checking out my GitHub.
     <img src="https://skillicons.dev/icons?i=py,flask,bash,html,css,js,svelte,dart,flutter,md,svg,tailwind,nextjs,d3" /> 
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=codepen,vercel,vscode,vim,linux,git,github,gitlab,androidstudio,ps" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,codepen,vercel,vscode,vim,linux,git,github,gitlab,androidstudio,ps" />
   </a>
 </p>
 
