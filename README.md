@@ -23,7 +23,7 @@
 </div>
 
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,bash,html,css,js,svelte,dart,flutter,md,svg,tailwind,nextjs" /> 
     <br>
